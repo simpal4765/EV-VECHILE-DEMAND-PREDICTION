@@ -216,8 +216,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 📧 Contact
 
-**Author:** Tanishka Jain
-**GitHub:** [@tanishka234](https://github.com/tanishka234)
+**Author:** SIMPAL SINGH
+**GitHub:**)https://github.com/simpal4765/EV-VECHILE-DEMAND-PREDICTION
 
 > ✨ Empowering sustainable mobility with data and machine learning.
 
